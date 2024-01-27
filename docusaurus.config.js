@@ -58,7 +58,7 @@ const config = {
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
       // Replace with your project's social card
-      image: 'https://mir-s3-cdn-cf.behance.net/projects/404/5857a6171152463.Y3JvcCwxODYzLDE0NTcsNzUxLDMwNA.png',
+      image: 'https://toppng.com/uploads/preview/senati-vector-logo-download-free-11574173815m1aecslrnv.png',
       navbar: {
         title: '',
         logo: {
