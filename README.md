@@ -46,6 +46,6 @@ $ USE_SSH=true npm run deploy
 Sin usar SSH:
 
 ```
-$ GIT_USER=<Your GitHub username> npm run deploy
+$ GIT_USER=AndyTR03 npm run deploy
 ```
 Este comando publica el contenido estatico a través de la rama `gh-pages`.
